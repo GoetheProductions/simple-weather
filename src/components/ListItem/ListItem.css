@@ -1,0 +1,17 @@
+.list-item {
+  padding: 16px;
+  border-bottom: 1px solid lightgray;
+}
+
+.widget__item--header {
+  background-color: lightblue;
+  color: blue;
+}
+
+.list-item__data {
+  margin: 0;
+}
+
+.list-item__no-data {
+
+}

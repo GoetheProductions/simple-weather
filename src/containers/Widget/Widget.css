@@ -1,0 +1,38 @@
+.widget {
+  border: 1px solid lightblue;
+  margin: 16px;
+  min-height: 269px;
+}
+
+.widget__loader {
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 269px;
+  color: lightgray;
+}
+
+.widget__error {
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 269px;
+  color: white;
+  font-weight: 600;
+  font-size: 24;
+  background-color: lightcoral;
+}
+
+.widget__warning {
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 269px;
+  color: white;
+  font-weight: 600;
+  font-size: 24;
+  background-color: lemonchiffon;
+}
