@@ -1,10 +1,11 @@
 ### To run this project
 
-`yarn`
-`yarn server`
+`yarn` or `npm install`
+
+`yarn server` or `npm run server`
 
 > open new terminal
 
-`yarn start`
+`yarn start` or `npm start`
 
 Go to: `localhost:3000/widget.example/city=<YOUR_CITY>`
